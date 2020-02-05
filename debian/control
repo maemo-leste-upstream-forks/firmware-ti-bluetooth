@@ -1,0 +1,15 @@
+Source: firmware-ti-bluetooth
+Section: droid4
+Priority: optional
+Maintainer: Arthur Demchenkov <spinal.by@gmail.com>
+Standards-Version: 4.3.0
+Build-Depends:
+ debhelper (>= 10),
+
+Package: firmware-ti-bluetooth
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Binary firmware for TI Connectivity Bluetooth adapters
+ This package contains the binary firmware for Texas Instruments Bluetooth
+ chips used in Motorola Droid 4 devices.

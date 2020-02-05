@@ -1,0 +1,5 @@
+firmware-ti-bluetooth (0.1) unstable; urgency=medium
+
+  * Initial release. (Closes: #290, #296)
+
+ -- Arthur Demchenkov <spinal.by@gmail.com>  Wed, 05 Feb 2020 18:29:29 +0300
